@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Bhavani Makkena
 
-<!--
-**bhavanimakkena07/bhavanimakkena07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE (Cybersecurity) Student
+Interests -
 
-Here are some ideas to get you started:
+- Cybersecurity
+- Ethical Hacking
+- Security Operations (SOC)
+- Networking
+- AI-based Applications
+- Web & App Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning -
+
+- Cybersecurity Fundamentals
+- React & Web Development
+- AI Application Development
+- Git & GitHub
+- Practical Security Concepts
+
+Experience & Learning
+
+Building projects and learning through hands-on practice, TryHackMe, CTFs, academic projects, and AI-focused development.
+
+Focused on strengthening fundamentals and improving through continuous learning.
